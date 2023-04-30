@@ -1,8 +1,10 @@
-<h1> League of Tomb Raiders<\h1>
+<h1> League of Tomb Raiders</h1>
 
 Dialog tree explain
 Google docs link：
-Dialog Tree 1: The Guide
+
+
+<h4>Dialog Tree 1: The Guide</h4>
 
 You realize that found a local guide Obi-Wan is significant. He may offers to help the team find the way to the temple. 2 hours later, You and Amy found Obi-Wan. Obi-Wan is a weathered man with deep wrinkles etched into his face. He seems knowledgeable about the area and offers to lead you through the jungle in exchange for a fee. But the fee he requested is more expensive than the price you assume.
 
