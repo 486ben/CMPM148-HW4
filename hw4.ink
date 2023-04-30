@@ -490,6 +490,6 @@ What should you do?
     [Cautious]
     You decided to obey the warning. You make sure everyone get the limit amount of treasure. You knew that without your careful planning and preparation, you will died here and it's always good to be careful.
     <h1> Good ENDING <\h1>
-        ->END
+    ->END
 
 
