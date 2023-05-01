@@ -4,7 +4,7 @@
 Google docs link：https://docs.google.com/document/d/1akfELIndygTIHHti1e4uTXcM0MBDEiMBZLqUF4oqvsc/edit?usp=sharing
 
 <h3>Playable link:</h3>
-
+https://486ben.github.io/CMPM148-HW4/
 
 <h1>Basckground</h1>
 
